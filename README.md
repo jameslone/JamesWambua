@@ -1,4 +1,5 @@
-# JamesWambua
+# 🚀 James Wambua | Frontend Developer 👨‍💻
+
 # Hi there! 👋 I'm James Wambua
 
 ### 🌟 About Me
