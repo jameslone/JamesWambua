@@ -7,8 +7,8 @@ I'm a passionate **Frontend Developer** with **5 years of professional experienc
 
 - 🎓 **Education**: Bachelor's Degree in Software Engineering  
 - 🏢 **Current Role**: Frontend Developer at **AlgoSwift Limited**  
-- 🌐 **Portfolio**: [jameswambua.dev](https://jameswambua.dev)  
-- 🛠️ **Tech Stack**: JavaScript (ES6+), React.js, Next.js, TailwindCSS, TypeScript, Figma  
+- 🌐 **Portfolio**: [jameswambua.framer.website](https://jameswambua.framer.website)  
+- 🛠️ **Tech Stack**: JavaScript (ES6+), React.js, Next.js, TailwindCSS, TypeScript, Figma, Framer
 - 🌟 **Hobbies**: Exploring new frameworks, contributing to open source, blogging about web technologies  
 
 ---
@@ -41,8 +41,8 @@ Here are a few of my favorite projects:
 
 ### 🌐 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/james-wambua-a45b95219)  
-- 📧 [Email](mailto:wambuajames690.com)  
-- 🌟 [Portfolio](https://jameswambua.dev)
+- 📧 [Email](mailto:wambuajames690@gmail.com)  
+- 🌟 [Portfolio](jameswambua.framer.website)
 
 ---
 
